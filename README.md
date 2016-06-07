@@ -30,7 +30,7 @@ Example input
 head(rankall("heart attack", 20), 10)
 output: 
 
-    hospital                              state
+/    hospital                              state
 AK  <NA>                                  AK
 AL  D W MCMILLAN MEMORIAL HOSPITAL        AL
 AR  ARKANSAS METHODIST MEDICAL CENTER     AR
