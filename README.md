@@ -30,6 +30,6 @@ Example input
 head(rankall("heart attack", 20), 10)
 output: 
 
-![Alt tag](/blob/master/Screen%20Shot%202016-06-07%20at%201.58.10%20PM.png)
+https://cloud.githubusercontent.com/assets/6148094/15871319/89fe389e-2cb9-11e6-8eb5-476951f55ac0.png
 
 lists the first 10 of the 20th ranked hospital for heart attack in each state
